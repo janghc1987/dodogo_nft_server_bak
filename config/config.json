@@ -1,0 +1,38 @@
+{
+	"local-db": 
+	{ 
+		"username": "admin", 
+		"password": "Tdia5000", 
+		"database": "nftmarket", 
+		"host": "database-dev.cyahex2adajf.us-east-1.rds.amazonaws.com", 
+		"dialect": "mysql", 
+		"operatorAliases" : false 
+	},
+	"local": 
+	{ 
+		"username": "admin", 
+		"password": "Tdia5000", 
+		"database": "nftmarket", 
+		"host": "database-dev.cyahex2adajf.us-east-1.rds.amazonaws.com", 
+		"dialect": "mysql", 
+		"operatorAliases" : false
+	},
+	"development": 
+	{ 
+		"username": "admin", 
+		"password": "Tdia5000", 
+		"database": "nftmarket", 
+		"host": "database-dev.cyahex2adajf.us-east-1.rds.amazonaws.com", 
+		"dialect": "mysql", 
+		"operatorAliases" : false 
+	},
+	"product": 
+	{ 
+		"username": "admin", 
+		"password": "Tdia5000", 
+		"database": "nftmarket", 
+		"host": "database-dev.cyahex2adajf.us-east-1.rds.amazonaws.com", 
+		"dialect": "mysql", 
+		"operatorAliases" : false 
+	}
+}
